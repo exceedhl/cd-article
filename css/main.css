@@ -1,0 +1,27 @@
+h1 {
+    font-family: Eurostile, Tahoma, Arial, sans-serif;
+    font-size: 28px;
+}
+
+body {
+    font-family: Platino, Books Antiqua, Times New Roman, serif;
+    font-size: 100%;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+ul.menu {
+    list-style: none outside;
+    padding-left: 0;
+}
+
+ul.menu li {
+    font-size: 14px;
+}
+

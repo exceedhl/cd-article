@@ -1,0 +1,48 @@
+#+TITLE: 持续交付笔记
+
+# 假设大家已经熟悉
+# - 自动化构建
+# - 持续集成
+# - build pipeline
+# - 自动化测试
+
+# 超链接引用，将不同的内容模块化，不尝试平铺直述
+# 假设用户可以从任何一部分开始读起，碰到需要了解的部分可以索引到其他部分
+# 引用既有资源
+
+# TODO:
+# - 找空间，域名
+# - RSS feed
+# - comment integration
+# - cross link to blog
+
+# **** TODO 配图
+# **** TODO 文字修改
+# **** TODO 二级标题
+# **** TODO 脚注
+# **** TODO 索引
+
+#+begin_html
+<style type="text/css">
+#postamble {display: none}
+</style>
+#+end_html
+
+这里记录了我近两年来关于持续交付、devops等的学习体会和经验总结，一方面
+是对自己的一个总结，另一方面也希望能够对更多的人有用。
+
+这里的文章主要是关于持续交付过程中的持续部署部分，及从代码开发到实际上
+线的过程。包含的内容涉及技术实践、工具、团队组织、项目经验等。内容会不
+断更新，直到我觉得写无可写。如果你想第一时间了解新的内容，不妨订阅我的
+[[http://hl.thoughtworkers.org/atom.xml][RSS]]。
+
+如果你有任何不错的想法和点子，请与我交流(exceedhl@gmail.com)，我将不胜
+欣喜。如果你想转载这里的内容，我也不胜荣幸，只要您能够注明出处。
+
+
+# *** 关于我
+
+# twitter、weibo、linkedin
+
+# twer，
+- [[file:cd.org][持续交付概述]]
