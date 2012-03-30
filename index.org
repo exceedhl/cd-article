@@ -44,6 +44,5 @@
 # twitter、weibo、linkedin
 
 # twer，
-* 目录
 
 - [[file:cd.org][持续交付概述]]
