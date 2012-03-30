@@ -159,13 +159,8 @@ A产品的功能测试下，又可能有fetcher和frontend两个组件自己的�
 单元测试。
 
 最外围的功能测试将A产品当作一个黑盒，这样的测试是浅层次的，不能完全覆盖
-所有场景，而且通常编写和维护成本高，运行时间长，并且受环境因素影响大
-[fn:: 参见此文关于测试深度的讨论:
-http://fabiopereira.me/blog/2012/03/18/introducing-depth-of-test-dot/]。
-如果一个产品的测试多数是这样的，很容易形成头重脚轻的冰激凌型结构[fn::此
-图片以及下面的金字塔结构图片引自：
-http://watirmelon.com/2012/01/31/introducing-the-software-testing-ice-cream-cone/]
-。
+所有场景，而且通常编写和维护成本高，运行时间长，并且受环境因素影响大[fn::参见此文关于测试深度的讨论:http://fabiopereira.me/blog/2012/03/18/introducing-depth-of-test-dot/]。
+如果一个产品的测试多数是这样的，很容易形成头重脚轻的冰激凌型结构[fn::此图片以及下面的金字塔结构图片引自:http://watirmelon.com/2012/01/31/introducing-the-software-testing-ice-cream-cone/]。
 
 # cone
 
