@@ -36,8 +36,7 @@
 断更新，直到我觉得写无可写。如果你想第一时间了解新的内容，不妨订阅我的
 [[http://hl.thoughtworkers.org/atom.xml][RSS]]。
 
-如果你有任何不错的想法和点子，请与我交流(exceedhl@gmail.com)，我将不胜
-欣喜。如果你想转载这里的内容，我也不胜荣幸，只要您能够注明出处。
+如果你有任何不错的想法和点子，欢迎与我交流(exceedhl@gmail.com)。
 
 
 # *** 关于我
@@ -45,4 +44,6 @@
 # twitter、weibo、linkedin
 
 # twer，
+* 目录
+
 - [[file:cd.org][持续交付概述]]
