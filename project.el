@@ -13,8 +13,8 @@
 	 :preparation-function copy-resources
 	 :publishing-directory "./build"
 	 :style "<link rel=\"stylesheet\" href=\"css/main.css\" type=\"text/css\"/>"
-	 :style-include-default nil
-	 :style-include-scripts nil
+	 :style-include-default t
+	 :style-include-scripts t
 	 :html-postamble "<div id=\"disqus_thread\"></div>
 <script type=\"text/javascript\">
   /**
