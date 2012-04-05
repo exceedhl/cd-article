@@ -12,15 +12,15 @@
   <div class="navbar">
     <div class="navbar-inner">
       <div class="container">
-	<a href="index.html">持续交付笔记</a>
-	<span class="navlink">
-	  {{navlink}}
-	</span>
+	<a href="index.html" class="home">持续交付笔记</a>
+	{% if title %}
+	&gt; <a href="#top" class="top">{{title}}</a>
+	{% endif %}
       </div>
     </div>
   </div>
-  
   <div class="container">
+    <a name="top"></a>
     {{content}}
     
     <div id="comment">

@@ -24,7 +24,7 @@
 
 #+begin_html
 <style type="text/css">
-#postamble {display: none}
+#comment {display: none}
 </style>
 #+end_html
 

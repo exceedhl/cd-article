@@ -83,9 +83,6 @@ a:hover {
   color: white;
   text-decoration: none;
 }
-.navbar .navlink {
-  font-size: small;
-}
 .navbar-inner {
   padding: 0.3em 0;
   background-color: #2c2c2c;
@@ -103,4 +100,13 @@ a:hover {
   -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+}
+
+a.home::after {
+  padding-left: 2px;
+  content: url(../images/home.png);
+}
+a.top::after {
+  padding-left: 2px;
+  content: url(../images/arrow_top.png);
 }
