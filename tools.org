@@ -1,4 +1,3 @@
-#+LINK_HOME: intro.html
 #+TITLE:工具
 
 * 部署

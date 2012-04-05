@@ -1,5 +1,6 @@
 #+OPTIONS: todo:nil tasks:nil \n:nil
-#+LINK_HOME: intro.html
+#+LINK_UP: index.html
+#+LINK_HOME: http://hl.thoughtworkers.org
 
 #+TITLE: 持续交付概述
 
