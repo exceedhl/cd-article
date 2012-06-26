@@ -1,0 +1,34 @@
+云计算作为cd的基石
+- 云环境的监控和优化使用
+
+三层工具论
+- 工具需求分析
+- 平台image
+- 包
+- package和chef/puppet的使用场景
+
+TDD infrastructure code
+# 持续集成环境开发(in singleton antipattern)
+
+模式：
+- artifact
+- configurable package
+- 组织级repository; package orgnization(e.g. common packages)
+- 统一环境
+
+反模式：
+- singleton
+  
+环境稳定性
+- yum repo
+
+团队组织和协作
+
+多个产品持续集成
+
+企业内service(nagio, netscaler, koji, ci etc.)的管理(how to recreate them)
+
+# 产品的自动化构建(automatic
+# build)可能会在开发环境中启动一个轻量级的web server，将自己的应用部署上
+# 去，然后自动化地运行功能测试。视产品的复杂程度，可能还需要在开发环境中
+# 部署一个数据库，或者其他外部应用的stub。
